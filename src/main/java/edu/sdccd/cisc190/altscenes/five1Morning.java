@@ -6,7 +6,6 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
-
 public class five1Morning {
     private Scene scene;
     private int conviction; // Variable to track the conviction stat
