@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99e49df4-c35a-48ad-bff0-cf7fdda63da4" name="Changes" comment="a -permentat commit that I want to push">
+    <list default="true" id="99e49df4-c35a-48ad-bff0-cf7fdda63da4" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733638274758</updated>
       <workItem from="1733638275844" duration="1416000" />
-      <workItem from="1733639855871" duration="1999000" />
+      <workItem from="1733639855871" duration="2953000" />
     </task>
     <task id="LOCAL-00001" summary="a -permentat commit that I want to push">
       <option name="closed" value="true" />
@@ -104,7 +104,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733640554901</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1733642363784</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733642363784</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1733642399559</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733642399559</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +162,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update TitleScreen.java" />
     <MESSAGE value="a -permentat commit that I want to push" />
-    <option name="LAST_COMMIT_MESSAGE" value="a -permentat commit that I want to push" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
